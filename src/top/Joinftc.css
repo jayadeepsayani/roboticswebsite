@@ -1,0 +1,16 @@
+
+.join-ftc-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+    background-color: var(--primary-color);
+}   
+
+.join-ftc-container h2 {
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+}

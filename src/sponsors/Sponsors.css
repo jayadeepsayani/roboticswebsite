@@ -1,0 +1,34 @@
+.sponsors-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 410px;
+    margin-bottom: 100px;
+}
+
+.sponsor-title {
+    display: inline-block;
+    margin-top: 100px;
+    width: 100%;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+
+.sponsors { 
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sponsors img {
+    max-height: 100px;  
+}
+
+.bosch {
+    height: 55px;
+}

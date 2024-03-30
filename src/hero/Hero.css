@@ -1,0 +1,71 @@
+.fa-robot {
+    height: 200px;
+    color: var(--primary-color);
+}
+
+.hero-title {
+    font-size: 64px;
+    color: var(--primary-color);
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    line-height: 78px;
+    text-align: center;
+    margin-top: 44px;
+}
+
+.hero-container {
+    position: relative;
+    display: flex;
+    height: 765px;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-content-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.hero-text {
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 300;
+    margin-top: 15px;
+    margin-bottom: 30px;  
+}
+
+.cta-container {
+    display: flex;
+    justify-content: center;
+ 
+}
+
+.cta-container a {
+    width: 150px;
+    height: 50px;
+}
+
+.image-container-one, .image-container-two {
+    position: absolute;
+    display: flex;
+    width: 80%;
+    /* border: 1px solid #000; */
+    justify-content: space-between;
+}
+
+.image-container-one {
+    top: 80px;
+}
+
+.image-container-two {
+    bottom: 80px;
+    z-index: -1;
+}
+
+.image-container-one img, .image-container-two img {
+    height: 220px;
+    border-radius: 10px;    
+    box-shadow: 0 0 10px #000;
+
+}
