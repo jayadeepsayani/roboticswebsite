@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/roboticswebsite/static/css/main.1b592e46.css",
+    "main.js": "/roboticswebsite/static/js/main.fc6533a0.js",
+    "index.html": "/roboticswebsite/index.html",
+    "main.1b592e46.css.map": "/roboticswebsite/static/css/main.1b592e46.css.map",
+    "main.fc6533a0.js.map": "/roboticswebsite/static/js/main.fc6533a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b592e46.css",
+    "static/js/main.fc6533a0.js"
+  ]
+}
